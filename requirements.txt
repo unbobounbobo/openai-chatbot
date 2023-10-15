@@ -1,0 +1,5 @@
+streamlit==1.22.0
+openai==0.27.2
+pandas
+numpy
+streamlit-chat==0.0.2.2
